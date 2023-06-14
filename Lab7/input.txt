@@ -1,0 +1,37 @@
+{
+#align center
+#border 1 %
+#margin 1 1 1 1
+#padding 2 2 2 2
+$a b c d e f g
+{
+#border 3 *
+#padding 3 3 3 3
+#align left
+$1234567890
+$ abcdefghijklmnopqrstuvwxyz 
+{
+#mask $
+#align right
+{
+#margin 2 2 2 2
+#padding 1 1 1 1
+#border 2 +
+#width 8
+$ASDF
+}
+$ZxCvBnM
+}
+}
+$QWERTYUIOP
+{
+$  ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+{
+#margin 2 3 2 3
+#padding 2 1 2 1
+#border 3 %
+#align center
+$ 12345 
+}
+}
+}
